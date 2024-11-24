@@ -9,7 +9,7 @@ Java application for showing how Spring dependencies works (using annotation and
 ### Требования
 - Java 17 (или выше)
 - Maven 3.6.0 (или выше)
--
+  
 ### Сборка
 Чтобы собрать приложение, необходимо выполнить следующие действия:
 1. Скопируйте репозиторий.
